@@ -62,15 +62,14 @@ This project focuses on classifying Braille characters using Deep Learning techn
 
 ## 📊 Results
 
+
+
 - **Model Performance:** The trained CNN model achieves high accuracy in classifying Braille characters from images.
   - **Accuracy:** The model's accuracy is evaluated on a test set, demonstrating its effectiveness in recognizing Braille characters.
   - **Confusion Matrix:** A confusion matrix is provided to visualize the model's performance across different Braille characters.
 
 - **Key Metrics:**
-  - **Accuracy:** [Insert accuracy value]
-  - **Precision:** [Insert precision value]
-  - **Recall:** [Insert recall value]
-  - **F1-Score:** [Insert F1-Score value]
+  - **Accuracy:** [0.9423]
 
 ## 📝 Conclusion
 
