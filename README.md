@@ -91,3 +91,7 @@ This project successfully demonstrates the use of deep learning techniques for B
 
 - [Deep Learning with Keras](https://www.tensorflow.org/guide/keras)
 - [Image Classification with Convolutional Neural Networks](https://www.tensorflow.org/tutorials/images/cnn)
+
+  ## 🚧 Work in Progress
+
+- **Braille-to-Speech Generator:** We are currently working on developing a Braille-to-Speech generator. This tool aims to convert Braille characters into spoken language, further enhancing accessibility for visually impaired individuals. Stay tuned for updates on this feature!
